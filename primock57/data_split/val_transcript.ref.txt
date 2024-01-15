@@ -1,0 +1,671 @@
+laxepro|day3_consultation10_doctor_u38
+ok not heard of it may is it like salbutamol is it like a blue colour|day3_consultation10_doctor_u39
+yellow ok i'll have to check that one not sure laxepro|day3_consultation10_doctor_u40
+ok um that's fine any other medication that you're using|day3_consultation10_doctor_u41
+over the counter anything at all|day3_consultation10_doctor_u42
+ok right any allergies|day3_consultation10_doctor_u43
+no allergies at all righty fine so obviously you know you just have diarrhea it's about four to five times a day um you're still drinking plenty and you look like you're not dehydrated which is a good sign ok um when we start worrying about diarrhea is if you're going more than eight times a day|day3_consultation10_doctor_u44
+that means probably you are you know whatever you're eating is going straight through ok you still need to drink plenty of water because you're losing a lot of fluids|day3_consultation10_doctor_u45
+ok when you go to the toilet um things that one would advise is a soft diet so avoid dairy fish meat eggs while you're having the diarrhea go sorry|day3_consultation10_doctor_u46
+ok so that will be like crackers toast jam those kind of things that's easily digested like what we are good give babies yeah when they start eating you give simple food for babies you don't give eggs or meat the first time they start feeding so that's the kind of soft diet we're talking about yeah once you are able to you know keep most of it in you can start off with some just boiled vegetables and mash|day3_consultation10_doctor_u47
+once you're ok with that for about forty eight hours then you can start having meat so just don't have meat once you feel like you're slightly better because you might go back to square one again all right|day3_consultation10_doctor_u48
+forty eight hours you're not having any diarrhea you're fine then you can go and start having meat egg fish and all so that|day3_consultation10_doctor_u49
+no no no preferably just don't because what why do we say this it's because it takes much more time for meat to get digested so because your gut flora you know the the the bacteria in your gut is not you know as it should be it takes a bit more effort for one to digest these food|day3_consultation10_doctor_u50
+while it doesn't take that much of an effort to you know digest mash and vegetables does that make sense|day3_consultation10_doctor_u51
+yeah so um at the same time you could have some although you can't milk is not a good idea yoghurts are a good idea because they are probiotics it help to build up the normal um gut gut bacteria back|day3_consultation10_doctor_u52
+ok|day3_consultation10_doctor_u53
+so those kinda now things to look out for if your diarrhoea doesn't go away in a week's time or if you're passing blood we need a stool sample because that means you you may have um some particular bugs that might need treatment with antibiotics|day3_consultation10_doctor_u54
+ok if you're again as i've mentioned previously if you're going about six to eight times a day that means there's a high chance that uh you are having dehydration and you might need to go into hospital at that point in time if that happens you get in touch with us again all right|day3_consultation10_doctor_u55
+any questions you look a bit confused|day3_consultation10_doctor_u56
+yeah ok and also you could get something called dioralyte over the counter so it helps to uh replenish your the salts that you've been that's lost through going to the toilet|day3_consultation10_doctor_u57
+ok if you're a bit confused you know you can actually uh all this is all recorded in your app so you can go back i'll put that all in detail so if you know i know sometimes it's a bit difficult to process everything you can go back and read read the notes|day3_consultation10_doctor_u58
+is that ok|day3_consultation10_doctor_u59
+all right then you take care|day3_consultation10_doctor_u60
+bye now bye bye|day3_consultation10_doctor_u61
+hello hi um should we start yeah okay hello how um good morning sir how can i help you this morning|day1_consultation01_doctor_u0
+sorry to hear that um and and when you say diarrhea what'd you mean by diarrhea do you mean you're going to the toilet more often or are your stools more loose|day1_consultation01_doctor_u1
+okay and how many times a day are you going let's say in the last couple of days|day1_consultation01_doctor_u3
+six seven times a day and you mention it's mainly watery have you noticed any other things like blood in your stools|day1_consultation01_doctor_u4
+okay and you mentioned you've had some pain in your tummy as well whereabouts is the pain exactly|day1_consultation01_doctor_u5
+one side and what side is that|day1_consultation01_doctor_u6
+left side okay and can you describe the pain to me|day1_consultation01_doctor_u7
+okay and is the pain is that is it there all the time or does it come and go|day1_consultation01_doctor_u8
+come and go does the pain move anywhere else for example towards your back|day1_consultation01_doctor_u9
+okay fine and you mentioned you've been feeling quite weak and shaky as well what do you mean by shaky do you mean you've been having uh have you been feeling feverish for example|day1_consultation01_doctor_u10
+you measure your temperature then|day1_consultation01_doctor_u12
+okay okay any other symptoms like sweating or um night sweats no and uh any vomiting at all|day1_consultation01_doctor_u13
+you stopped vomiting okay and was your vomit i know it's not a nice thing to talk about but was it just normal food colour yeah and there was no blood in your vomit is that right|day1_consultation01_doctor_u14
+no okay um and um any any other symptoms at all so you mentioned tummy pain you mentioned diarrhea you mentioned your vomiting uh anything else that comes to mind|day1_consultation01_doctor_u15
+okay|day1_consultation01_doctor_u16
+okay so you're drinking fluids um what kind of foods have you managed to eat if anything|day1_consultation01_doctor_u17
+okay fine um and sir these started three days ago the symptoms are you aware of any triggers which may have caused the symptoms uh to kick on so for example think like takeaway foods or eating out or being around other people with similar symptoms|day1_consultation01_doctor_u18
+okay|day1_consultation01_doctor_u19
+do you remember where you ate|day1_consultation01_doctor_u20
+okay anyone else unwell with similar symptoms|day1_consultation01_doctor_u21
+okay okay fine um alright and uh in terms of your your overall health are you normally fit and well or uh|day1_consultation01_doctor_u22
+okay and is your asthma well controlled|day1_consultation01_doctor_u23
+fine and you don't have any other tummy problem bowel problems i should be aware of|day1_consultation01_doctor_u24
+no okay um and apart from the inhalers do you take any other medications|day1_consultation01_doctor_u25
+okay fine and in terms of just your day to day life you said it's been affecting your life um in what way has it been affecting your life|day1_consultation01_doctor_u26
+okay|day1_consultation01_doctor_u27
+yeah|day1_consultation01_doctor_u28
+and have you are you currently working at the moment|day1_consultation01_doctor_u29
+would would work|day1_consultation01_doctor_u30
+okay have you been going into work the last three days or have you been at home|day1_consultation01_doctor_u31
+okay that must be difficult for you then|day1_consultation01_doctor_u32
+fine and you said you mentioned you live with your wife and two children is that right|day1_consultation01_doctor_u33
+right alright um just a couple of other question we need to ask sir um do you smoke at all|day1_consultation01_doctor_u34
+and do you drink much in the way of alcohol|day1_consultation01_doctor_u35
+okay so um er normally at this stage i like to um examine you if that's okay but um um but but having listened to your story sir i think uh um just to recap for the last three days you've been having loose stool diarrhea a bit of tummy pain uh mainly on the left hand side um and vomiting and fever and you're quite weak and lethargic um you mentioned you had this chinese takeaway as little as three days ago and i wondered whether that might be the cause of your problems|day1_consultation01_doctor_u36
+um it seems like you may have something uh called gastroenteritis which essentially just a tummy bug or infection of your uh of your tummy|day1_consultation01_doctor_u37
+uh mainly caused by viruses but there can be a possibility of bacteria uh causing its symptoms um|day1_consultation01_doctor_u38
+at this stage uh what what we'd recommend is just what we say conservative management so um i don't think you need anything like antibiotics it's really just um making sure you're well hydrated so drinking fluids|day1_consultation01_doctor_u39
+um there are things like dioralyte you can get from the pharmacy which uh it's um it helps helps replenish your minerals and vitamins|day1_consultation01_doctor_u40
+um and if you are having vomiting diarrhea i would say recommend that in the first you know first couple of days|day1_consultation01_doctor_u41
+if you are feeling feverish and weak eh taking some paracetamol uh two tablets up to four times a day for the first few days can also help|day1_consultation01_doctor_u42
+i will certainly advise you to take some time off work actually i know you're quite keen to work but i would say the next two two to three days as the infection clears from your system to take some time off and rest|day1_consultation01_doctor_u43
+um i'll admit if your symptoms haven't got better you know in in three to four days i'd like to come and see you again|day1_consultation01_doctor_u44
+because if it is ongoing then we have to wonder whether something else caused your symptoms|day1_consultation01_doctor_u45
+uh and we may need to do further tests like um taking a sample of your stool so we can test that|day1_consultation01_doctor_u46
+um etcetera etcetera|day1_consultation01_doctor_u47
+how's that sound|day1_consultation01_doctor_u48
+do you have any questions for me|day1_consultation01_doctor_u49
+okay and is uh is the treatment plan clear|day1_consultation01_doctor_u50
+great well i wish you all the best|day1_consultation01_doctor_u51
+thank you bye bye|day1_consultation01_doctor_u52
+hi|day3_consultation02_patient_u0
+yep uh john doe|day3_consultation02_patient_u1
+uhh twenty one twelve and nineteen uh eighty six|day3_consultation02_patient_u2
+is uh number one london street um nw three six pq|day3_consultation02_patient_u3
+we are yes|day3_consultation02_patient_u4
+uh yeah iive had a um a sort of a a a very sort of bad severe headache the past four days um and um i've been sort of feeling a bit hot as well um i've got got a bit of a temperature i think|day3_consultation02_patient_u5
+i haven't measured it but um think i've yeah i think i've got a fever|day3_consultation02_patient_u6
+um so um headache started uh first um and then sort of yeah fever sort of came along a bit afterwards|day3_consultation02_patient_u7
+um so i've had some paracetamol and some ibuprofen but it's not really helping at the moment|day3_consultation02_patient_u8
+yep|day3_consultation02_patient_u9
+um no like um it it's fine light doesn't seem to bother me too much|day3_consultation02_patient_u10
+and i've got some general aching muscles um not necessarily sort of in my neck it's kind of a bit all over really|day3_consultation02_patient_u11
+no no i haven't i haven't been sick|day3_consultation02_patient_u12
+uh no no cough|day3_consultation02_patient_u13
+uh no no|day3_consultation02_patient_u14
+um no it's it seems to be ok it it's fine|day3_consultation02_patient_u15
+uh no|day3_consultation02_patient_u16
+um just i i suppose general aching body aching|day3_consultation02_patient_u17
+uh no i'm i'm sort of yeah seem to be sort of fine with that sort of stuff but yeah|day3_consultation02_patient_u18
+uh no um general medical history is fine|day3_consultation02_patient_u19
+uh no um i i suppose uh i have been away to um uh thailand um uh week or so ago um|day3_consultation02_patient_u20
+had some like usual mosquito bites from sort of traveling around and a friend of mine has also been a bit unwell but um uh yeah that 's the only sort of like history per se|day3_consultation02_patient_u21
+um i um uh i i do feel cold quite a lot uh you know it's um i no sort of shivering but definitely like a bit cold|day3_consultation02_patient_u22
+yep|day3_consultation02_patient_u23
+uh no|day3_consultation02_patient_u24
+uh no um|day3_consultation02_patient_u25
+ok|day3_consultation02_patient_u26
+ok|day3_consultation02_patient_u27
+uh no i mean i've got a bit of a rash but nothing like uh no no no no bleeding|day3_consultation02_patient_u28
+um it's uh the rash is kind of all over my body like it's not it's not it's not really localised|day3_consultation02_patient_u29
+um uh sort of red and itchy|day3_consultation02_patient_u30
+yeah|day3_consultation02_patient_u31
+uh yes|day3_consultation02_patient_u32
+ok|day3_consultation02_patient_u33
+ok|day3_consultation02_patient_u34
+ok|day3_consultation02_patient_u35
+ok|day3_consultation02_patient_u36
+uh no sounds serious|day3_consultation02_patient_u37
+ok|day3_consultation02_patient_u38
+ok cool thank you very much|day3_consultation02_patient_u39
+bye|day3_consultation02_patient_u40
+hello|day3_consultation10_patient_u0
+nice to meet you|day3_consultation10_patient_u1
+michael john|day3_consultation10_patient_u2
+oh nine two nine eighty three|day3_consultation10_patient_u3
+two three one leonard london street uh sorry london|day3_consultation10_patient_u4
+yes|day3_consultation10_patient_u5
+uh it's been happening for about three days now um yeah it started off uh was i don't know it's just something that i thought would go away pretty quickly|day3_consultation10_patient_u6
+i've had that from time to time after eating certain types of food or going on certain travels but uh nothing funky in my diet and no travels recently um and it just kinda kept up i'm a bit confused as to what to do|day3_consultation10_patient_u7
+no no no no just a little bit yeah i i don't know i mean it's pretty standard diarrhoea where it's was like a little bit of abdominal pain i threw up once that was a little worrying uh|day3_consultation10_patient_u8
+i threw up once yeah|day3_consultation10_patient_u9
+uh nothing else was worrisome|day3_consultation10_patient_u10
+uh four to five|day3_consultation10_patient_u11
+uh what do you mean|day3_consultation10_patient_u12
+it probably depends on the time of day to be honest|day3_consultation10_patient_u13
+no blood what do you mean mucus|day3_consultation10_patient_u14
+in the stool|day3_consultation10_patient_u15
+no|day3_consultation10_patient_u16
+uh maybe a little bit but|day3_consultation10_patient_u17
+it hasn't been that in particular hasn't been too worrying|day3_consultation10_patient_u18
+uh a little bit of|day3_consultation10_patient_u19
+appetite loss i guess worse than normal but also not something i've like i if that was alone i wouldn't have reached out|day3_consultation10_patient_u20
+yeah yeah yeah|day3_consultation10_patient_u21
+mostly it's been dry and red|day3_consultation10_patient_u22
+nothing yet|day3_consultation10_patient_u23
+uh nothing yet|day3_consultation10_patient_u24
+uh i|day3_consultation10_patient_u25
+probably i i had asthma|day3_consultation10_patient_u26
+um or or i don't know i guess i still have it|day3_consultation10_patient_u27
+uh my dad had hypertension|day3_consultation10_patient_u28
+has hypertension had hypertension yeah he died of bowel cancer ten years ago|day3_consultation10_patient_u29
+uh sixty two|day3_consultation10_patient_u30
+yes|day3_consultation10_patient_u31
+lexapro|day3_consultation10_patient_u32
+lexapro|day3_consultation10_patient_u33
+yes|day3_consultation10_patient_u34
+yellow|day3_consultation10_patient_u35
+no|day3_consultation10_patient_u36
+nothing yeah nothing|day3_consultation10_patient_u37
+mmm|day3_consultation10_patient_u38
+soft|day3_consultation10_patient_u39
+what is a soft diet what does that like outside of not those things what do you mean by soft|day3_consultation10_patient_u40
+what do you mean ok with that diet like once|day3_consultation10_patient_u42
+ok if if the diarrhoea is getting better but isn't getting or do you want it to go away completely at that point or if it's like trending upwards|day3_consultation10_patient_u43
+yes|day3_consultation10_patient_u44
+ok|day3_consultation10_patient_u45
+ok|day3_consultation10_patient_u46
+ok|day3_consultation10_patient_u47
+no that's it|day3_consultation10_patient_u48
+ok|day3_consultation10_patient_u49
+perfect that's great|day3_consultation10_patient_u50
+bye|day3_consultation10_patient_u51
+um so i'm|day1_consultation05_patient_u1
+having some some pain uh in my tummy like the lower part of my tummy um and i've just been feeling quite hot and sweaty|day1_consultation05_patient_u2
+about two days ago|day1_consultation05_patient_u3
+uh like below my belly button it's like quite sore when i press on it|day1_consultation05_patient_u4
+it hasn't been it's more gradual and it's just it is getting a bit worse now|day1_consultation05_patient_u5
+uh it's kind of like a a i guess a burning pain uh and it's just right there yeah in that spot like uh that's mostly where i'm feeling it it hasn't spread anywhere else|day1_consultation05_patient_u6
+yeah|day1_consultation05_patient_u7
+it's pretty constant it's like getting worse um it's not like i i can still move and walk around uh i mean i'm still kind of functioning it's just uh i'm aware of it time|day1_consultation05_patient_u8
+yeah i had a bit of constipation but that's better now that was like since last week|day1_consultation05_patient_u9
+no i'm i'm my bowel movements are normal now|day1_consultation05_patient_u10
+yeah i'm fine that's fine that's i did notice that i was a little the urine was a little pink in colour but i haven't like it hasn't really been burning specifically or hurting when i pee and uh|day1_consultation05_patient_u11
+and i did notice i was going to the i was peeing more regularly but i have been drinking lots of fluids so i wasn't sure um i wasn't sure um like you know if that was related to the pain|day1_consultation05_patient_u12
+i can't say i mean maybe|day1_consultation05_patient_u13
+and i haven't noticed that it really burns or anything like that um just that i'm peeing more than more regularly|day1_consultation05_patient_u14
+just a little nauseous um but no vomiting|day1_consultation05_patient_u15
+i haven't i felt a bit hot and sweaty but i haven't really measured it so i can't really say|day1_consultation05_patient_u16
+yes|day1_consultation05_patient_u17
+uh yeah i've i have had the same partner i am we were last sexually active about four days ago um my last std screen was normal which was about six months ago|day1_consultation05_patient_u18
+no the|day1_consultation05_patient_u19
+uh i'm on the implanon i had the implanon inserted about a year ago|day1_consultation05_patient_u20
+yes|day1_consultation05_patient_u21
+uh my last period was about three weeks ago i mean two weeks ago|day1_consultation05_patient_u22
+well we don't use any other barrier method so we just use the i just have the implanon and the same partner um|day1_consultation05_patient_u23
+theoretically if the implanon hasn't been working then i could be pregnant but i don't suspect|day1_consultation05_patient_u24
+yeah that sounds very accurate|day1_consultation05_patient_u25
+i don't think so i think i've you we've covered everything that's really bothering me|day1_consultation05_patient_u26
+yeah well i haven't had any surgical i don't have any surgical history|day1_consultation05_patient_u27
+i don't have any previous i haven't had any operations before or and i'm not on any other medication i just have the implanon|day1_consultation05_patient_u28
+i've never i've never had these symptoms before|day1_consultation05_patient_u29
+no not that not that i'm aware of no|day1_consultation05_patient_u30
+uh i live in a share house and with two other two other room mates|day1_consultation05_patient_u31
+yeah i currently i am currently|day1_consultation05_patient_u32
+i am an accountant|day1_consultation05_patient_u33
+no|day1_consultation05_patient_u34
+uh socially i drink but uh i don't think more more than normal|day1_consultation05_patient_u35
+all right|day1_consultation05_patient_u36
+i don't feel short of breath uh or i'm not having any problems or i don't have a cough or anything that's worrying me|day1_consultation05_patient_u37
+not that it no|day1_consultation05_patient_u38
+no|day1_consultation05_patient_u39
+ok|day1_consultation05_patient_u40
+yeah i can we do that instead of me going for tests and then seeing how that goes|day1_consultation05_patient_u41
+yeah i think i'm happy with that plan|day1_consultation05_patient_u42
+uh sure that sounds great thank you very much um should i just collect the script at my pharmacy|day1_consultation05_patient_u43
+ok|day1_consultation05_patient_u44
+ok that sounds great|day1_consultation05_patient_u45
+ok thank you very much|day1_consultation05_patient_u46
+bye|day1_consultation05_patient_u47
+hello good morning|day2_consultation02_patient_u0
+nice to see you|day2_consultation02_patient_u1
+yes uh my name is john smith and i was born on the fifth of april uh nineteen seventy three|day2_consultation02_patient_u2
+yes|day2_consultation02_patient_u3
+yeah um i just noticed this like about a week ago or something um have like a weird swelling on on on my elbow i noticed that when i was in the shower uh|day2_consultation02_patient_u4
+it's not painful at all or like i i feel fine but it's just just a bit a bit weird to see that|day2_consultation02_patient_u5
+um it's it's slightly warm um and i i cannot feel like this little bit fluid in inside or uh um|day2_consultation02_patient_u6
+so i i like to know what's going on with|day2_consultation02_patient_u7
+um it's the the left elbow|day2_consultation02_patient_u8
+no not really um not that i know of i haven't noticed anything i can actually like move it normally um it's just i i can just see that it feels a bit strange a bit|day2_consultation02_patient_u9
+not really no i just you know sit at a desk um yeah|day2_consultation02_patient_u10
+no no i haven't noticed that before um i don't have any like history of of seeing this i don't remember|day2_consultation02_patient_u11
+um no well i i do well i think i think i have something like uh osteoarthritis um|day2_consultation02_patient_u12
+uh uh it sometimes kind of hurts uh my joints but uh in my family i'm not sure|day2_consultation02_patient_u13
+no|day2_consultation02_patient_u14
+um yes yes a few years ago|day2_consultation02_patient_u15
+a a gp um yeah|day2_consultation02_patient_u16
+i'm uh fifty three|day2_consultation02_patient_u17
+um|day2_consultation02_patient_u18
+well not not really no um i'm i'm allergic to to peanuts um but that's that's pretty much all i uh have to say about my medical history yeah|day2_consultation02_patient_u19
+uh no not that i know of|day2_consultation02_patient_u20
+uh no|day2_consultation02_patient_u21
+yeah i do i do i do some sports i run regularly like two three times a week um yeah no i'm think i'm healthy|day2_consultation02_patient_u22
+uh yeah sure|day2_consultation02_patient_u23
+yeah|day2_consultation02_patient_u24
+it's a bit warm yes|day2_consultation02_patient_u25
+on the on the tip of the elbow it's it's ok just like next to it like where the the swelling is it's a bit yeah it feels weird|day2_consultation02_patient_u26
+uh no not really i have skin really dry now|day2_consultation02_patient_u27
+no|day2_consultation02_patient_u28
+ok|day2_consultation02_patient_u29
+alright|day2_consultation02_patient_u30
+ok|day2_consultation02_patient_u32
+k o|day2_consultation02_patient_u33
+ok|day2_consultation02_patient_u34
+mm hmm|day2_consultation02_patient_u35
+yeah|day2_consultation02_patient_u36
+ok|day2_consultation02_patient_u37
+do you do you think it's something dangerous like something like could i die from that or is it is it|day2_consultation02_patient_u38
+ok|day2_consultation02_patient_u39
+yeah ok i see|day2_consultation02_patient_u40
+ok|day2_consultation02_patient_u41
+yeah that that sounds good thank you|day2_consultation02_patient_u42
+um well just yeah i just wanted to know about this um yeah it feels a bit better now uh but yeah no that's it thank you|day2_consultation02_patient_u43
+ok|day2_consultation02_patient_u44
+sure thanks bye|day2_consultation02_patient_u45
+ok|day2_consultation02_patient_u46
+ok yeah that sounds good i i'll do that and if i see that it's getting worse i'll probably ask for a physical appointment|day2_consultation02_patient_u47
+thank you alright sounds|day2_consultation02_patient_u49
+bye|day2_consultation02_patient_u50
+hello hi i'm doctor jacob and welcome to babylon how are you doing|day3_consultation05_doctor_u0
+good|day3_consultation05_doctor_u1
+alright i can't see your face properly just yeah that's it that's good thank you so i'm sorry to hear that but just before we start is it alright if you could confirm your name for me please|day3_consultation05_doctor_u2
+date of birth|day3_consultation05_doctor_u3
+ok and your address for me please|day3_consultation05_doctor_u5
+that's correct and just to confirm that you're in a secure location and we can have a confidential conversation|day3_consultation05_doctor_u7
+ok so you've mentioned that you're feeling dizzy yes|day3_consultation05_doctor_u8
+mm hmm|day3_consultation05_doctor_u10
+ok ear's buzzing so when did it all start|day3_consultation05_doctor_u11
+ok so you said you mentioned it started a few hours ago so did it start what were you doing|day3_consultation05_doctor_u13
+ok so you mentioned like the room spinning around|day3_consultation05_doctor_u14
+ok and is how long does it last for or is it there now continuously now|day3_consultation05_doctor_u15
+so it's there now for the past two hours you'd say yeah|day3_consultation05_doctor_u16
+ok did you have any kind of viral illness in the recent past past couple of weeks|day3_consultation05_doctor_u17
+no cold cough nothing|day3_consultation05_doctor_u18
+yeah ok um you've mentioned that you have a some ear buzzing kind of thing any kind of ear pain or ear discharge anything like that|day3_consultation05_doctor_u19
+ok do you have a temperature at all|day3_consultation05_doctor_u20
+ok right you also mentioned that you can walk but you're not walking straight why is that is it because|day3_consultation05_doctor_u21
+feels like to move that's why you're feeling like you're a bit unsteady yeah|day3_consultation05_doctor_u22
+so there's no weakness of your arms and legs ok|day3_consultation05_doctor_u23
+k right um so you mentioned you had something like this a month ago so how how how long did that episode last for|day3_consultation05_doctor_u24
+ok right and do you have any problems hearing at the moment like is it muffled or something|day3_consultation05_doctor_u25
+ok righty ho|day3_consultation05_doctor_u26
+ok so have you been physically sick|day3_consultation05_doctor_u27
+nausea ok|day3_consultation05_doctor_u28
+righty ho and i don't have much information of your past medical history so is there any medical conditions you'd like to tell me surgical medical conditions|day3_consultation05_doctor_u29
+ok charting premature hearing failure ok and um any other medications at all|day3_consultation05_doctor_u30
+ok do you have any allergies at all|day3_consultation05_doctor_u31
+ok right ok so talking to you today um in the the most common um you know diagnosis we would you're suffering from at the moment is something called labyrinthitis yeah|day3_consultation05_doctor_u34
+ok that's when your middle earthere is something um some inflammation going on there and there is some imbalances in the crystals there in your middle ear|day3_consultation05_doctor_u35
+ok so what the most important treatment is actually giving you some kind of middle ear stability so that you won't feel as if you're going around in a boat kind of feeling|day3_consultation05_doctor_u36
+ok so that's what we need to because to actually make you function a bit more we'll start you on certain medications|day3_consultation05_doctor_u37
+i would still like you to be seen by one of our doctors to take a look inside your ears to just make sure so this is like just symptomatic relief like you have a fever we just give paracetamol so just to you know make you able to come and see one of the doctors and things like that|day3_consultation05_doctor_u38
+while you're with the doctors we'd like to do your blood pressure just examine your you know you know how your walking and everything is|day3_consultation05_doctor_u39
+ok while we're waiting while you're waiting on seeing the doctor if you double up any weakness of your legs or arms or or you know a sudden headache|day3_consultation05_doctor_u40
+any of those symptoms or you start being violently sick with it then you know you would need to take your to a and e|day3_consultation05_doctor_u41
+but if not wait for the appointment for the doctor to examine you um and we'll take it from there|day3_consultation05_doctor_u42
+so i'll i'll send the a prescription at cross pharmacy looks like it's the lloyd pharmacy on our system is that correct|day3_consultation05_doctor_u43
+yeah so we'll send you across that prescription um it's called yeah it's one tablet three times a day so i'll give you about ten days worth|day3_consultation05_doctor_u44
+in the interim obviously in the next few days you'll get to see one of my doctors and we'll have to just take it from there|day3_consultation05_doctor_u45
+any questions at all|day3_consultation05_doctor_u46
+it doesn't really matter you can take it because sometimes you know you get the symptoms as soon as you wake up so probably you'll feel a bit sick to eat anything so might as well just take the tablets|day3_consultation05_doctor_u47
+just make sure you call support to book that appointment ok|day3_consultation05_doctor_u48
+bye bye now bye|day3_consultation05_doctor_u49
+hello|day1_consultation06_doctor_u1
+uh hello can you hear me ok|day1_consultation06_doctor_u2
+ok great i am yes nice to see you here oscar um how can i help you this afternoon|day1_consultation06_doctor_u3
+ok do you want to tell me a bit more about it when did it all start|day1_consultation06_doctor_u4
+ok|day1_consultation06_doctor_u6
+ok ok is there anything you're particularly worried about|day1_consultation06_doctor_u7
+ok|day1_consultation06_doctor_u8
+ok|day1_consultation06_doctor_u9
+right|day1_consultation06_doctor_u10
+right ok so you mentioned you're feeling uh short of breath for the last couple of weeks but mainly the last couple of days it's got a bit worse|day1_consultation06_doctor_u12
+um uh and you're now feeling more breathless on kind of minimal minimal exertion you mentioned um have you noticed any other symptoms at all uh uh with your breath so for example any pain in your chest|day1_consultation06_doctor_u13
+ok and have you found yourself coughing coughing at all|day1_consultation06_doctor_u14
+ok ok and how's your general health otherwise are you feeling uh weak lethargic|day1_consultation06_doctor_u15
+ok|day1_consultation06_doctor_u16
+ok and what do you mean by that|day1_consultation06_doctor_u17
+ok um is that is that both|day1_consultation06_doctor_u18
+both ankles|day1_consultation06_doctor_u19
+ok uh i can imagine yeah um and again over how long has this have you noticed this for|day1_consultation06_doctor_u20
+past few days ok and is this something that you've had before in the past|day1_consultation06_doctor_u21
+ok ok um fine ok so um just to really recap uh so you're really in the last couple of weeks uh you've been feeling breathless uh but worse in the last couple of days you mentioned you had a bit of a dry cough|day1_consultation06_doctor_u22
+um and some swelling in your ankles um reporting no chest pain um and and have you had any have you any have you noticed your heartbeat racing at all so palpitations or skipped heartbeat|day1_consultation06_doctor_u23
+ok and any temperatures or fevers|day1_consultation06_doctor_u24
+ok and how about your appetite are you eating and drinking ok|day1_consultation06_doctor_u25
+ok and your waterworks are you passing urine ok|day1_consultation06_doctor_u26
+yeah|day1_consultation06_doctor_u27
+sure ok alright um fine so your uh your past medical history you mentioned heart failure any any other medical history i should be aware of|day1_consultation06_doctor_u28
+ok|day1_consultation06_doctor_u29
+ok and when when you say a small heart attack did they give you a name for what happened a a name of a diagnosis|day1_consultation06_doctor_u30
+it's more hard to say ok was it like angina or um|day1_consultation06_doctor_u31
+ok|day1_consultation06_doctor_u32
+ok|day1_consultation06_doctor_u33
+ok|day1_consultation06_doctor_u34
+you've been ok since then ok alright so apart from the uh the heart the heart problems the heart failure any other problems i should be aware of|day1_consultation06_doctor_u35
+ok um do you take any regular medications apart from your diuretics that you're taking and do you know which ones|day1_consultation06_doctor_u36
+do you know which dose you're taking|day1_consultation06_doctor_u37
+that's ok|day1_consultation06_doctor_u38
+no problems um|day1_consultation06_doctor_u39
+any other medications|day1_consultation06_doctor_u40
+ok|day1_consultation06_doctor_u41
+the metoprolol was it|day1_consultation06_doctor_u42
+or|day1_consultation06_doctor_u43
+sorry the connection's not very good ok thank you yeah|day1_consultation06_doctor_u44
+and a thousand ok alright any allergies at all any medications|day1_consultation06_doctor_u46
+no|day1_consultation06_doctor_u47
+ok and is there anything in the family that's uh that that's uh that's important for me to know any family history of medical problems heart problems lung problems|day1_consultation06_doctor_u48
+i'm sorry to hear that and um how old was your father when he passed away|day1_consultation06_doctor_u49
+early sixties ok alright anything else i should be aware of|day1_consultation06_doctor_u50
+ok|day1_consultation06_doctor_u51
+is your mother still with us|day1_consultation06_doctor_u52
+ok alright um and socially sir just tell me a bit more about your situation at home who lives at home with you|day1_consultation06_doctor_u53
+you've got two cats ok great do they have names|day1_consultation06_doctor_u54
+ok|day1_consultation06_doctor_u55
+um so it's just you and your cats and um in terms of day to day are you working at the moment|day1_consultation06_doctor_u56
+ok and how is that is that quite stressful long hours|day1_consultation06_doctor_u57
+mm|day1_consultation06_doctor_u58
+yeah that's certainly a consideration isn't it so let's let's try and get you better soon so it doesn't have any um impact on your on your job|day1_consultation06_doctor_u59
+uh and do you find yourself doing a lot of anti social hours do you do you do a lot of night driving weekend driving|day1_consultation06_doctor_u60
+ok|day1_consultation06_doctor_u62
+ok alright and what about smoking and alcohol so 'cause that can sometimes be very important when it comes to heart problems do you do you smoke at all|day1_consultation06_doctor_u63
+so you used to smoke|day1_consultation06_doctor_u64
+and how many did you smoke a day on average|day1_consultation06_doctor_u65
+um and how many how many years was that for|day1_consultation06_doctor_u66
+ok and what about the stopping that must have been difficult for you stopping um and what what about alcohol|day1_consultation06_doctor_u67
+ok do you do much in the way of exercise sir|day1_consultation06_doctor_u68
+ok|day1_consultation06_doctor_u69
+ok|day1_consultation06_doctor_u70
+right ok and certainly now your symptoms you you're you said you're feeling more breathless even walking to the uh to the shop she said|day1_consultation06_doctor_u71
+um right ohh um based on your based on you history and having listened to your story i i wonder whether you've had a flare up of your heart failure sir um|day1_consultation06_doctor_u72
+which can sometimes happen um um and uh|day1_consultation06_doctor_u73
+it's so it seems like your heart's not pumping as well as it should be um and obviously having diagnosed with heart failure there's obviously|day1_consultation06_doctor_u74
+um that's the first thing that comes to my mind um now there's a couple of options move forward um|day1_consultation06_doctor_u75
+given that you're otherwise well at the moment and having examined you your chest and your saturations and blood pressure are all ok|day1_consultation06_doctor_u76
+i'm quite happy to increase your dose of furosemide maybe rather than one tablet a day we can do two tablets a day for the first few days|day1_consultation06_doctor_u77
+um and see and see how you're getting on|day1_consultation06_doctor_u78
+uh|day1_consultation06_doctor_u79
+i think i think it's it's it's definitely worth treating your symptoms but what we should also think about is maybe doing a couple of other tests like a blood test and maybe an echocardiogram of your heart to see how well your heart's pumping|day1_consultation06_doctor_u80
+is that something you've had before yeah so um an it's a it's a general scan of your heart you might have had this done before when you were diagnosed and it's just to get a good|day1_consultation06_doctor_u81
+sorry|day1_consultation06_doctor_u82
+you remember that ok fine that's something i can organize for you today and and that might take a week or two weeks for that to be organized but i think certainly in the meantime let's um|day1_consultation06_doctor_u83
+let's let's get a blood test done we can check your um you know your full blood count look for signs of anemia we can have a check of your kidney function|day1_consultation06_doctor_u84
+um and we can definitely increase your um your furosemide uh to you know one tablet twice a day|day1_consultation06_doctor_u85
+but i really like would like you to come back and see me in about a week's time see how you're getting on that sound reasonable|day1_consultation06_doctor_u86
+and of course in the meantime if you are getting more unwell feel like you're getting more breathless or you're having any other symptoms like chest pain or palpitations or dizziness then uh you know i want you to give me a call sooner than that and we can have a chat on the phone as well|day1_consultation06_doctor_u87
+ok do you have any questions for me|day1_consultation06_doctor_u88
+great and then well i wish you all the best have a good day ok thank you|day1_consultation06_doctor_u89
+hi there good morning|day2_consultation04_doctor_u0
+um i'm doctor deen mirza from gp at hand nice to see you|day2_consultation04_doctor_u1
+ok so before we start your appointment can i please confirm your full name and date of birth|day2_consultation04_doctor_u2
+just tell me how old you are|day2_consultation04_doctor_u3
+ok uh and could you just confirm the first line of your address and your postcode|day2_consultation04_doctor_u4
+that's great ok thank you um are you in a private place where you're ok to speak at the moment|day2_consultation04_doctor_u6
+ok fantastic all right so tell me what's been going on you said you're a bit short of breath is that right|day2_consultation04_doctor_u7
+right ok ok and how long has this been going on for now|day2_consultation04_doctor_u8
+right ok any other symptoms at the same time uh that you've had this pain|day2_consultation04_doctor_u9
+right ok|day2_consultation04_doctor_u12
+ok all right well it might it might all be connected then um and um yesterday before this all of this were you completely fine|day2_consultation04_doctor_u13
+ok so you can feel your heart kind of um beating a little bit bit faster do you think than normal is that|day2_consultation04_doctor_u15
+ok sure|day2_consultation04_doctor_u16
+ok all right and um how long has that been for the tiredness and you know not wanting to exercise and|day2_consultation04_doctor_u18
+couple of weeks ok and then and the last day or so that's when you get the cough and the pain in the side and you've cough blood ok all right um you said you felt a bit warm have you measured your temperature at all|day2_consultation04_doctor_u19
+just with that ok fair enough all right um ok and now can i just ask um do you smoke at all|day2_consultation04_doctor_u20
+ok what do you work as|day2_consultation04_doctor_u21
+ok all right and um do you live alone|day2_consultation04_doctor_u22
+yeah in a flat or a house|day2_consultation04_doctor_u23
+ok do you have any pets|day2_consultation04_doctor_u24
+a cat ok um uh uh are you on any medication at all regular medication|day2_consultation04_doctor_u25
+methotrexate ok what are you on that for|day2_consultation04_doctor_u26
+sle ok do you have any other diagnoses any other illnesses at all|day2_consultation04_doctor_u27
+right ok um and do you have any allergies to any medication|day2_consultation04_doctor_u28
+any other allergies at all|day2_consultation04_doctor_u29
+ok so um you're on you're taking methotrexate at the moment when was the last time you had methotrexate|day2_consultation04_doctor_u30
+ohh you had it this morning ok ohh right all right|day2_consultation04_doctor_u31
+ok um um couple of things i'd like to do in order to try and um get an idea of how unwell you are|day2_consultation04_doctor_u32
+ok um the first thing i'd like to do is to try and measure your pulse|day2_consultation04_doctor_u33
+so what the way we're gonna do this is that if you're if i can get you to try and locate the pulse in your wrist|day2_consultation04_doctor_u34
+not everyone can do this so don't worry if you can't|day2_consultation04_doctor_u35
+but if you if you can tell me whether you can feel the regular pulse it's just under the thumb if you put two fingers up and down like that you might be able to feel the pulse|day2_consultation04_doctor_u36
+you got it ok are you sure|day2_consultation04_doctor_u37
+all right so what i'm going to do is i'm going to tell you when to start counting and when to stop counting ok so i'll just get my stopwatch up|day2_consultation04_doctor_u38
+ok so if you can um you've still got the pulse|day2_consultation04_doctor_u39
+ok so if you can start counting now please|day2_consultation04_doctor_u40
+if you can stop now that i think that was about eleven or twelve um so that would make your heart rate about sixty six to seventy four that's that's ok good|day2_consultation04_doctor_u41
+fantastic and the next thing i'd like you to try and do ok um it depends on the lighting so it may not be possible|day2_consultation04_doctor_u42
+but the next thing i'd like you to try and do is just to get you to squeeze the tip of your finger|day2_consultation04_doctor_u43
+and then let me see how quickly the redness come back ok so if you can see what i'm doing now my finger's come right behind the screen i'm squeezing it ok just watch me first it's all right just watch me first yeah i'm i'm squeezing it|day2_consultation04_doctor_u44
+and then you can see that it goes pale and then it goes back to the normal red colour ok|day2_consultation04_doctor_u45
+so if i can get you just to put your finger up to the your camera and then with the other hand just try and squeeze it and see|day2_consultation04_doctor_u46
+ok perfect that's great thank you so much|day2_consultation04_doctor_u47
+the last thing i'd like to do is i'd like to try and have a look down your throat|day2_consultation04_doctor_u48
+ok are are you doing this consultation via um a phone or a laptop|day2_consultation04_doctor_u49
+a phone|day2_consultation04_doctor_u50
+sorry say that again|day2_consultation04_doctor_u51
+ok ok so if you if you um position your device up above your head put your head back mouth open wide and let me see if i can have a that's fantastic and say ah|day2_consultation04_doctor_u53
+perfect thank you for that excellent|day2_consultation04_doctor_u55
+ok last thing is if i can get you to feel inside your neck just on the sides here ok um by your adam's apple tell me whether you can feel any enlarged glands or not|day2_consultation04_doctor_u56
+ok|day2_consultation04_doctor_u57
+all right um|day2_consultation04_doctor_u58
+now um uh sorry i've forgotten your name|day2_consultation04_doctor_u59
+doris ok doris um so so doris um what what i think we need to do is um this sounds like you might have a chest infection|day2_consultation04_doctor_u61
+ok if you're coughing up blood and you're feeling your heart racing um|day2_consultation04_doctor_u62
+uh i think you need to be examined today someone needs to listen to your chest|day2_consultation04_doctor_u63
+and um maybe check your blood pressure as well check that you're stable i have to say examining you now from what limited examination i could do online|day2_consultation04_doctor_u64
+you're everything does seem to be ok in terms of you you don't seem acutely unstable|day2_consultation04_doctor_u65
+however if you've got this kind of pain um when taking a deep breath in and you're coughing up blood we do do we do need to assess you to figure out whether you have a pneumonia or chest infection|day2_consultation04_doctor_u66
+and um that would involve someone listening to your chest with a stethoscope and you may need um an antibiotic uh there's one thing i need to ask you have you been on any long haul flight recently|day2_consultation04_doctor_u67
+no ok have you ever had any clots in your legs or clots in your lung blood clots|day2_consultation04_doctor_u68
+no ok anyone in the family have that|day2_consultation04_doctor_u69
+no ok all right um what i think we'll do is um we'll arrange for you to get reviewed in a clinic today|day2_consultation04_doctor_u70
+ok um i would like someone to listen to your chest and check your blood pressure|day2_consultation04_doctor_u71
+and to to recheck your pulse as well just make sure and check your temperature make sure all those parameters are ok|day2_consultation04_doctor_u72
+you may well need an antibiotic ok um do you have any allergies to any antibiotics|day2_consultation04_doctor_u73
+no ok um i i'm not i'm gonna not i'm not going to prescribe anything for you now because i think you need to have that basic assessment first|day2_consultation04_doctor_u74
+um before we proceed to the next step but the that's what i would predict the next step might be um i'm going to leave the number in the notes for this appointment for you to ring our support team|day2_consultation04_doctor_u75
+and then they will book you in for a face to face appointment with one of our gps today|day2_consultation04_doctor_u76
+and then they'll do that assessment and then we'll take it from there ok|day2_consultation04_doctor_u77
+um uh given the the way in which you uh have presented now just one day with a fever and this slight pain concurrent with the the blood in the the the flem|day2_consultation04_doctor_u78
+that's not usually how lung cancer is presented it's more insidious over a longer period of time with other symptoms|day2_consultation04_doctor_u79
+um however we might need to get some investigations to exclude that it depends on the examination finding when we see you|day2_consultation04_doctor_u80
+all right are you worried about lung cancer|day2_consultation04_doctor_u81
+sure of course yeah so just remind me how old you are again i'm sorry|day2_consultation04_doctor_u82
+forty five ok it's something we do need to be cognisant of ok um and we may end up having to do a follow up chest x ray if things don't settle down but at the moment it it seems more like a chest infection rather than a lung cancer|day2_consultation04_doctor_u83
+yeah that that is good to know yeah so that's 'cause that's easier to treat but we still need to make sure that things are ok because chest infections can become nasty as well|day2_consultation04_doctor_u84
+it can lead to infection inside the body we want to avoid that as well so let's get you checked out today and hopefully we can put your mind to rest and get you on the right course of treatment|day2_consultation04_doctor_u85
+all right you're welcome all right take care then all the best|day2_consultation04_doctor_u86
+bye|day2_consultation04_doctor_u87
+hello hello i'm doctor smith from babylon|day5_consultation04_doctor_u0
+hi there can you confirm your full name date of birth and the first line of your address please|day5_consultation04_doctor_u2
+can you confirm your date of birth and first line|day5_consultation04_doctor_u6
+ok and your address|day5_consultation04_doctor_u7
+yep|day5_consultation04_doctor_u8
+ok and are you in a are you in a private place where you can have a consultation|day5_consultation04_doctor_u9
+ok what can i do for you today|day5_consultation04_doctor_u10
+what can i do for you today|day5_consultation04_doctor_u11
+right ok and when did it start|day5_consultation04_doctor_u13
+ok and whereabouts in your in your abdomen do you think it is can you just explain to me whereabouts it is|day5_consultation04_doctor_u15
+ok and is it in the middle or to one side|day5_consultation04_doctor_u16
+and is it around your belly button or above or below that|day5_consultation04_doctor_u17
+and is it there all the time or does it come and go|day5_consultation04_doctor_u18
+ok and what would you say it is on a scale of one to ten with ten being the worst pain you've ever had|day5_consultation04_doctor_u19
+ok um and have you are you having any other symptoms with it|day5_consultation04_doctor_u20
+k so when when was your last period|day5_consultation04_doctor_u21
+ok and are you having sexual intercourse regularly|day5_consultation04_doctor_u22
+ok are you using any contraception|day5_consultation04_doctor_u23
+ok|day5_consultation04_doctor_u24
+and do you have your do you have your periods when you since you've been using the implanon do you have periods|day5_consultation04_doctor_u25
+regularly or are they sporadic|day5_consultation04_doctor_u26
+right ok|day5_consultation04_doctor_u27
+and was your last period normal|day5_consultation04_doctor_u28
+and any problems with nausea or vomiting|day5_consultation04_doctor_u29
+right and have you been eating and drinking ok|day5_consultation04_doctor_u30
+ok and have you opened your bowels normally|day5_consultation04_doctor_u32
+have you opened your bowels normally|day5_consultation04_doctor_u33
+you've been to the toilet|day5_consultation04_doctor_u34
+what problems did you have last week|day5_consultation04_doctor_u35
+ok and what about this week|day5_consultation04_doctor_u36
+are you going to the toilet every day um is the stool normal or diarrhea or hard stool|day5_consultation04_doctor_u37
+um and you said you'd had some vaginal bleeding|day5_consultation04_doctor_u38
+is that is your period stopped|day5_consultation04_doctor_u39
+ok|day5_consultation04_doctor_u40
+any abnormal discharge other discharge or just the slight bleeding|day5_consultation04_doctor_u41
+ok any difficulty breathing or pain in your shoulders or anything like that|day5_consultation04_doctor_u42
+no|day5_consultation04_doctor_u43
+and have you had a high temperature have you got a thermometer|day5_consultation04_doctor_u44
+do you feel feverish|day5_consultation04_doctor_u45
+and do you feel faint when you stand up|day5_consultation04_doctor_u46
+what have you been doing for the last few days have you been at work as normal or have to stay at home|day5_consultation04_doctor_u47
+ok but you said the pain's constant there all the time or is it getting worse from time to time|day5_consultation04_doctor_u48
+ok um have you had any other um medical problems in the past|day5_consultation04_doctor_u49
+pardon|day5_consultation04_doctor_u50
+ok anything else have you had any operations|day5_consultation04_doctor_u51
+have you had any pregnancies|day5_consultation04_doctor_u52
+have you taken a pregnancy test this time when was that|day5_consultation04_doctor_u53
+ok but not since you've had the abdominal pain|day5_consultation04_doctor_u54
+ok and any surgery in the past|day5_consultation04_doctor_u55
+um and what's your job day to day|day5_consultation04_doctor_u56
+ok and who do you live with at home|day5_consultation04_doctor_u58
+ok and do you smoke or drink alcohol|day5_consultation04_doctor_u59
+you take any other drugs|day5_consultation04_doctor_u60
+have you been abroad recently|day5_consultation04_doctor_u61
+whereabouts to|day5_consultation04_doctor_u62
+pardon|day5_consultation04_doctor_u63
+a year ago not recently no|day5_consultation04_doctor_u64
+um and any problems passing water|day5_consultation04_doctor_u65
+any pain or strong smell or having to go more often than normal|day5_consultation04_doctor_u66
+right ok and any any weight loss or blood in the stool or urine|day5_consultation04_doctor_u67
+ok|day5_consultation04_doctor_u69
+fine um i think with the abdominal pain as it's getting worse and it's been going on for the last few days um it would be very helpful to be able to examine you properly|day5_consultation04_doctor_u70
+would you be happy to have an examination with a doctor|day5_consultation04_doctor_u71
+ok um so what we can do is we can arrange a face to face examination where they can um see you in a clinic and do a abdominal examination and advise further from there when we got more of an idea what's causing the problem|day5_consultation04_doctor_u72
+um would you be happy to call the support line and arrange that appointment|day5_consultation04_doctor_u73
+ok that's fine so we'll we'll do that in the meantime if it gets a lot worse um|day5_consultation04_doctor_u74
+or you you're not holding any fluids down um then we should see you before then|day5_consultation04_doctor_u75
+um did you say your pregnancy test was a month ago|day5_consultation04_doctor_u76
+ok um um your implanon was just put in a year ago|day5_consultation04_doctor_u77
+the other thing we would need to do is to to do a pregnancy test today if possible|day5_consultation04_doctor_u78
+so if you can do that today and if it's positive we need to see you straight away so give us a call back|day5_consultation04_doctor_u79
+ok have you got any other questions|day5_consultation04_doctor_u80
+right ok so if you call the support line and make an appointment we'll go from there|day5_consultation04_doctor_u81
+thanks bye|day5_consultation04_doctor_u82
+hi hi there good morning|day2_consultation07_doctor_u0
+um i'm doctor dean resor from nice to see you|day2_consultation07_doctor_u1
+ok great so before we start your appointment could you please confirm your full name and date of birth|day2_consultation07_doctor_u3
+that's great thank you so much for that um you look a lot younger so um|day2_consultation07_doctor_u5
+does that that would make you roughly about fifty years old fifty one fifty one years old is that is that correct or|day2_consultation07_doctor_u6
+six ok perfect all right so um nice to see see you this morning are you in a private place where you are ok to speak freely|day2_consultation07_doctor_u7
+ok fantastic so um how can i help you today|day2_consultation07_doctor_u8
+right ok|day2_consultation07_doctor_u9
+now do you have those these symptoms right now or have they gone off now|day2_consultation07_doctor_u10
+ok so you've still got the chest discomfort right now|day2_consultation07_doctor_u11
+ok um|day2_consultation07_doctor_u12
+we're probably gonna have to call an ambulance for you|day2_consultation07_doctor_u13
+ok so what i'm gonna do is i'm gonna task my colleague next to me to sort that out while we do that i'm gonna ask you a few more questions ok|day2_consultation07_doctor_u14
+we're gonna a bit more information to the to help the ambulance team when they when they arrive ok|day2_consultation07_doctor_u15
+so just to just to double check um where exactly in the chest is the pain|day2_consultation07_doctor_u16
+is is it spreading anywhere else like down into your arm up to the jaw in your neck anything like that|day2_consultation07_doctor_u18
+right ok do you remember what you were doing at the time|day2_consultation07_doctor_u19
+sure ok and and how much activity do you do normally do you walk a lot or do you run or do you do anything|day2_consultation07_doctor_u21
+have you had this before|day2_consultation07_doctor_u22
+right ok can are you aware of any palpitations like your heart beating faster or more prominently than normal|day2_consultation07_doctor_u23
+so i know you're stressed but but we've got an ambulance coming on the way ok so um we'll take care of everything so don't don't worry who's in the house with you at the moment|day2_consultation07_doctor_u26
+ok um and is your front door open|day2_consultation07_doctor_u27
+ok so maybe we'll we'll speak maybe in the hallway to the front door have the front door open so that in case people need access they could access you|day2_consultation07_doctor_u28
+alright um so um uh are you a smoker at all|day2_consultation07_doctor_u29
+how long have you been smoking for|day2_consultation07_doctor_u30
+fifteen years ok um do you have um high blood pressure or high cholesterol or diabetes or anything|day2_consultation07_doctor_u31
+ok have you ever had your cholesterol checked|day2_consultation07_doctor_u32
+ok all right um now anyone in your wider in in your family sorry in your parents did either of them have any heart problems or heart attacks or anything like that|day2_consultation07_doctor_u33
+ok uh i'm sorry to hear about your father can you remember what age roughly he was when he had he had the heart attack|day2_consultation07_doctor_u35
+right so just under sixty around sixty|day2_consultation07_doctor_u36
+yeah ok alright um do you drink much alcohol|day2_consultation07_doctor_u37
+ok is that a a beer you're talking about yeah|day2_consultation07_doctor_u38
+uh i i can't tell from the video are you overweight|day2_consultation07_doctor_u39
+right ok alright um uh now um you do you normally live alone|day2_consultation07_doctor_u40
+sure ok and and uh are you working at the moment|day2_consultation07_doctor_u41
+right what do you work as|day2_consultation07_doctor_u42
+right ok alright um so um the the symptoms that you've described to me|day2_consultation07_doctor_u43
+um they indicate the possibility of um a heart attack|day2_consultation07_doctor_u44
+ok so i'm not saying you definitely have a heart attack but we that it's our number one priority to exclude that|day2_consultation07_doctor_u45
+ok so ambulance team will be with you very shortly i'm gonna stay on the line with you until they come|day2_consultation07_doctor_u46
+ok when they come what they'll do is they're gonna put some stickers on your chest and do an ecg|day2_consultation07_doctor_u47
+and then decide where to take you after that ok|day2_consultation07_doctor_u48
+and um what what uh can i just double check do you have um any allergies to any medication|day2_consultation07_doctor_u49
+right ok|day2_consultation07_doctor_u50
+sure uh what's the nature of that allergy to aspirin do you does it does it cause you heartburn or is it like an allergic reaction|day2_consultation07_doctor_u51
+ok all right it's very important that you communicate that to the hospital|day2_consultation07_doctor_u52
+um the detail you just told me because um we we may need to consider aspirin despite allergy ok|day2_consultation07_doctor_u53
+um alright um now in terms of um what happens from here|day2_consultation07_doctor_u54
+that team will assess you and then they may take you into one hospital or another based on how bad what the ecg looks like and what kind of treatment you might need ok|day2_consultation07_doctor_u55
+um what i'm going to do is we'll stay on the line for the time being ok until they come and then um once they come then i'll hand over to them and i'll explain what's going on alright|day2_consultation07_doctor_u56
+ok|day2_consultation07_doctor_u57
+we'll end the conversation after the purposes is that ok|day2_consultation07_doctor_u58
+thanks bye|day2_consultation07_doctor_u59
+hello can you hear me ok|day4_consultation07_doctor_u0
+yeah good good so my name is joe i'm a doctor um here at babylon can i just confirm your name please|day4_consultation07_doctor_u1
+and your date of birth|day4_consultation07_doctor_u2
+ok great|day4_consultation07_doctor_u3
+and are you in a uh a safe place ohh sorry a safe and confidential place to talk and just happy to go ahead with the consultation|day4_consultation07_doctor_u4
+great so how can i help|day4_consultation07_doctor_u5
+ok i'm sorry to hear that so you've had a cough and a sore throat for about a week|day4_consultation07_doctor_u6
+and what came what what came first|day4_consultation07_doctor_u7
+ok ok and uh are you coughing up anything|day4_consultation07_doctor_u8
+ok so i'm i'm just gonna ask a few questions about the uh your current symptoms and a little bit about your background|day4_consultation07_doctor_u9
+um and something else about what we can do a little bit later on in the consultation to help you so before we go on anything you're particularly concerned about um or have any ideas what might be going on you said that you had a cold|day4_consultation07_doctor_u10
+great so so yeah i can provide a bit of reassurance um and uh we can talk about those a little bit as well and was there anything you were particularly expecting or hoping to get out of this consultation um|day4_consultation07_doctor_u11
+sure sure ok all right so we'll talk a little bit about the symptoms and i'm sure we can get a um those things uh and some reassurance um about your concerns|day4_consultation07_doctor_u12
+so um you mentioned that you started with sore throat about a week ago developed into bit of a dry cough um i'll just ask a few questions around those so um do you have any shortness of breath|day4_consultation07_doctor_u13
+you are short of breath and uh do you have any wheeze or chest pain|day4_consultation07_doctor_u14
+you're you're feeling a bit wheezy with some chest pain as well|day4_consultation07_doctor_u15
+ok and how ah when did you start to develop the shortness of breath|day4_consultation07_doctor_u16
+three or four days ago you started develop and is the cough worse at night time|day4_consultation07_doctor_u17
+same throughout the day um and uh when you say you're short of breath|day4_consultation07_doctor_u18
+just need to try and get an idea about how short of breath you are so are you able to so um so uh like walk up a flight of stairs for example um or or are you short of breath at rest|day4_consultation07_doctor_u19
+and you're a bit concerned about that ok|day4_consultation07_doctor_u20
+so i just need to ask a few uh things about your background as well so um do you have any other medical conditions or medical history|day4_consultation07_doctor_u21
+no no history of asthma|day4_consultation07_doctor_u22
+um and any uh uh history of uh clots on your legs or your lungs|day4_consultation07_doctor_u23
+so these uh no one in your family's had those clots on the legs or the lungs|day4_consultation07_doctor_u24
+your mother had lung cancer do you smoke|day4_consultation07_doctor_u25
+you ever smoked or been exposed to asbestos that you know of|day4_consultation07_doctor_u26
+ok um and uh this so just going back to the your symptoms of shortness of breath with the cough it's a dry cough no you're not coughing up any flem|day4_consultation07_doctor_u27
+um do do you have uh and you don't you say you don't have any chest pain as such|day4_consultation07_doctor_u28
+um uh are you taking any medications currently at the moment|day4_consultation07_doctor_u29
+ok are you allergic to any medications|day4_consultation07_doctor_u30
+peanuts ok um and uh|day4_consultation07_doctor_u31
+you mentioned that your mother had uh lung cancer um any other family history of any significant illnesses uh run running in your family|day4_consultation07_doctor_u32
+just lung cancer ok|day4_consultation07_doctor_u33
+and you say you have a cold so do you have sinus congestion or um|day4_consultation07_doctor_u34
+so just your just your throat and any recent travel or have you always lived in the uk|day4_consultation07_doctor_u35
+ok so no so no recent travel no significant recent travel any anywhere um ok|day4_consultation07_doctor_u36
+and are you coughing up anything other than um uh so you you're not coughing up blood or anything like that no no|day4_consultation07_doctor_u37
+um good and uh are you feeling feverish hot cold sweaty|day4_consultation07_doctor_u38
+ok and in general do you sorry yeah|day4_consultation07_doctor_u39
+uh|day4_consultation07_doctor_u40
+ok and in general would you say you're feeling you're you're beginning to to feel better worse or or sort of um staying the same|day4_consultation07_doctor_u41
+ok|day4_consultation07_doctor_u42
+and i just need to ask any other sort of risk factors um|day4_consultation07_doctor_u43
+that you may have so um no sort of significant weight loss um or unexplained weight loss any|day4_consultation07_doctor_u44
+you've been losing your appetite recently|day4_consultation07_doctor_u45
+and you're a little bit concerned about that but you haven't you haven't lost any weight that you think of|day4_consultation07_doctor_u46
+and any um sort of rashes or anything or uh and you|day4_consultation07_doctor_u47
+not that not that you can think of ok|day4_consultation07_doctor_u48
+um so i would ask to examine you now but um i i don't know if i could sort of look inside your throat at least to see if there's a probably there's|day4_consultation07_doctor_u49
+ohh no well no it's ok i might think about doing a have you got any lumps or bumps around your neck that you can feel|day4_consultation07_doctor_u50
+no that you no ok|day4_consultation07_doctor_u51
+um and so finally you you were talking about uh i mean it sounds to me that um you've been a little bit up and down sore throat developed a dry cough|day4_consultation07_doctor_u52
+um you are slightly short of breath but not too overly concerningly short of breath what i would say we're just coming to the end of consultation now if you feel significantly worse|day4_consultation07_doctor_u53
+um uh if you get more short of breath or sudden change in your breathlessness um or breathlessness that you are concerned about then i would advise you to see no go and see a gp um and actually see somebody physically|day4_consultation07_doctor_u54
+um uh but i think for now i can sort of uh try and reassure you that um if this clears up as i expect it would so i expect this to sort of be getting better in the next four or five days um if it's not please get in touch with a medical professional again|day4_consultation07_doctor_u55
+um and uh i would expect it to and so therefore i wouldn't be concerned about tuberculosis|day4_consultation07_doctor_u56
+um your concerns about lung cancer are and was that the other thing you're concerned about|day4_consultation07_doctor_u57
+yeah so so um again if you're not getting better please see somebody again|day4_consultation07_doctor_u58
+um i've just got four seconds now so nice talking to you and have we gotta we gotta tidy up yeah ok so uh|day4_consultation07_doctor_u59
+uh and i'll provide you with a sick note just to give you a few more days off work|day4_consultation07_doctor_u60
+um and paracetemol lots of fluids um and uh rest up and as i say if you're not feeling better please get in touch ok|day4_consultation07_doctor_u61
+thank you|day4_consultation07_doctor_u62
+hello|day1_consultation07_patient_u0
+yes yeah i can i can cheers|day1_consultation07_patient_u1
+uh i am not feeling very well|day1_consultation07_patient_u2
+and i haven't been feeling well for a good few days now and i'm really hoping you can do something about it because it's been bugging me for a while now|day1_consultation07_patient_u3
+uh i just feel a bit run down you know i've got a cough a cold|day1_consultation07_patient_u4
+you know my wife's been nagging me i just it's just all yeah it's just that that that's it that's it|day1_consultation07_patient_u5
+uh yeah yeah mean mostly dry it's a you know it's a wee bit in the morning it's a bit worse uh but and you know it's it's fairly fairly dry aye|day1_consultation07_patient_u6
+yeah yeah yeah yeah yeah yeah i don't like to admit that it's you know it's talk about but yeah it's aye aye it's a wee bit wee bit uh yeah|day1_consultation07_patient_u7
+yeah yeah yeah aye aye you're right is that is that coming through loud and clear on the phone yeah the the sniffling yeah|day1_consultation07_patient_u8
